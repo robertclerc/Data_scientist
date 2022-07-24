@@ -16,5 +16,5 @@ The goal of this project is to analysis data that reflects data that reflects th
 
 ## TP 10
 
-The goal of this project to make an algorithm for detect fake tickets
+The goal of this project to make an algorithm for detect fake tickets based on Kmeans clustering. See Scénario 10.docx for further details.
 
